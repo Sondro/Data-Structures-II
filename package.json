@@ -20,7 +20,7 @@
   "homepage": "https://github.com/SunJieMing/LS-Data-Structures-I/#readme",
   "devDependencies": {
     "babel-jest": "24.8.0",
-    "eslint": "^3.17.1",
+    "eslint": "^4.0.0",
     "eslint-config-airbnb": "14.1.0",
     "eslint-plugin-import": "2.7.0",
     "eslint-plugin-jsx-a11y": "4.0.0",
