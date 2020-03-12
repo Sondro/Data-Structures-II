@@ -26,7 +26,7 @@
     "eslint-plugin-jsx-a11y": "4.0.0",
     "eslint-plugin-react": "6.10.3",
     "jest": "25.1.0",
-    "regenerator-runtime": "0.13.3"
+    "regenerator-runtime": "0.13.5"
   },
   "dependencies": {
     "babel-preset-es2015": "^6.24.0",
