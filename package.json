@@ -22,7 +22,7 @@
     "babel-jest": "26.0.1",
     "eslint": "7.2.0",
     "eslint-config-airbnb": "18.1.0",
-    "eslint-plugin-import": "2.20.2",
+    "eslint-plugin-import": "2.21.1",
     "eslint-plugin-jsx-a11y": "4.0.0",
     "eslint-plugin-react": "6.10.3",
     "jest": "26.0.1",
